@@ -1,7 +1,7 @@
 # GRC_Phishing_Security_Awareness_Program
 
 
-**Presenter**: CyberSecHazaa
+**Presenter**: Cyber Analyst MH
 **Category**: Cybersecurity GRC | Security Awareness | Presentation
 **Tools**: Excel/Google Sheets, Articles 
 
